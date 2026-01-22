@@ -1,8 +1,8 @@
 # SMTP Lab
-
+- A Python program that simulates an SMTP mail client by establishing a connection with an email server using the Simple Mail Transfer Protocol, composing and sending messages, handling server responses, and demonstrating core concepts of email transmission, client-server communication, and network protocol implementation.
 ----
 
-# AUTHOR INFO
+## Author Info
 
 - Full Names: Ethan E. Lopez, Thomas Johnson, William Meyer, Karam Aboul-Hosn
 - Student IDs: 2425516, 2437165 
